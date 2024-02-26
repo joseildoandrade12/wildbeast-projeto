@@ -135,10 +135,10 @@ img {
 
 @keyframes seta {
   from {
-    height: 30px;
+    right: 30px;
   }
-  to{
-    height: 20px;
+  to {
+    right: 20px;
   }
 }
 
@@ -156,7 +156,6 @@ img {
     right: 30px;
     color: rgba(0, 0, 0, .3);
     animation: seta 0.5s ease-in 0s infinite alternate;
-
   }
   .sidenav ul {
     display: flex;
